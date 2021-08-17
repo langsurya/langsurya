@@ -1,5 +1,8 @@
 ### Hi there 👋
+My full name is Elang Surya, So you can call me "Elang"
 
+- 🔭 I’m currently working on ...
+- 
 <!--
 **langsurya/langsurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
