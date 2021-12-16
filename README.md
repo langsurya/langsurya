@@ -5,7 +5,7 @@ My full name is Elang Surya, So you can call me "Elang"
 
 ### Experiences
 - PHP
-- Codeigniter
+- Codeigniter 4
 - GIT
 - MySql/MariaDB
 - Linux Ubuntu
