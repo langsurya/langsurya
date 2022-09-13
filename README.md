@@ -14,6 +14,7 @@ My full name is Elang Surya, So you can call me "Elang"
 
 ![Elang's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=langsurya&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
+<!--
 ![Elang's GitHub stats](https://github-readme-stats.vercel.app/api?username=langsurya&show_icons=true&theme=chartreuse-dark)
 
 ## Preview
@@ -21,6 +22,7 @@ My full name is Elang Surya, So you can call me "Elang"
 
 ## Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=langsurya&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 ##
 ![](https://komarev.com/ghpvc/?username=langsurya&color=brightgreen)
