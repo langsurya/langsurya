@@ -1,5 +1,5 @@
 ## Hi there 👋
-My full name is Elang Surya, So you can call me "Elang"
+My full name is Elang Surya, So you can call me "Lang"
 
 - 🔭 I’m currently working on ...
 
