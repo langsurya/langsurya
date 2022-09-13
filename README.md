@@ -22,7 +22,6 @@ My full name is Elang Surya, So you can call me "Elang"
 
 ## Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=langsurya&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
--->
 
 ##
 ![](https://komarev.com/ghpvc/?username=langsurya&color=brightgreen)
